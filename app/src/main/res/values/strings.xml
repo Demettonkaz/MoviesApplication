@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="internet_connection_alert_title">Internet Connection Alert</string>
+    <string name="internet_connection_alert_desc">Please Check Your Internet Connection</string>
+    <string name="movie_not_found_alert_title">Movie not found</string>
+    <string name="movie_not_found_alert_desc">Movie not found. Please make sure you entered the movie name correctly.</string>
+    <string name="alert_dialog_close_button">Close</string>
+    <string name="more_buton">More</string>
+    <string name="search_buton">Search</string>
+    <string name="search_hint">Enter Movie to Search.</string>
+    <string name="year_title">Year:</string>
+    <string name="released_title">Released:</string>
+    <string name="imdb_rating_title">Imdb Rating:</string>
+    <string name="type_title">Type:</string>
+    <string name="genre_title">Genre:</string>
+    <string name="actors_title">Actors:</string>
+    <string name="plot_title">Plot:</string>
+    <string name="production_title">Production:</string>
+    <string name="pinsoft_title">PINSOFT</string>
+
+</resources>
